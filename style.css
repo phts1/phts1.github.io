@@ -138,10 +138,10 @@ body * {
     display: none;
   }
   .menu {
-  	padding-top: 30px;
+  	padding: 40px 60px 0 0;
   }
   .menu__link {
-  	padding-left: 20px;
+  	padding-left: 10px;
   }
   .toggle__menu {
   	margin-left: 0;
@@ -150,9 +150,7 @@ body * {
 }
 @media only screen and (max-width: 360px)
 {
-  .menu {
-    padding: 25px 110px 0 0;
-  }
+
   .menu__link {
   	padding-right: 15px;
   }
