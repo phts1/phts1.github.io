@@ -137,8 +137,14 @@ body * {
   .logo {
     display: none;
   }
+  .menu {
+  	padding-top: 30px;
+  }
   .menu__link {
-  	padding-left: 25px;
+  	padding-left: 20px;
+  }
+  .toggle__menu {
+  	margin-left: 0;
   }
 
 }
